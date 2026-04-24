@@ -1,0 +1,5 @@
+{
+  "name": "File Records Keeper (React + SQLite)",
+  "description": "A full-stack React application to track physical file records, transfers, and chain of custody using a local SQLite database for robust data persistence.",
+  "requestFramePermissions": []
+}
